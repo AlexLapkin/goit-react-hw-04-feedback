@@ -1,0 +1,7 @@
+.notify_message {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(226, 18, 53);
+    font-size: 20px;
+}
