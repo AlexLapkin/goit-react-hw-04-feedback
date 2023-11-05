@@ -11,7 +11,6 @@ export const App = () => {
 
   const handleClick = event => {
     const { name } = event.target;
-    console.log();
     switch (name) {
       case 'good':
         setGood(good + 1);
